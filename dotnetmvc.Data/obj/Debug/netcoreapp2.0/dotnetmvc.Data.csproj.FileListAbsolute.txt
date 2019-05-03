@@ -1,0 +1,9 @@
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\bin\Debug\netcoreapp2.0\dotnetmvc.Data.deps.json
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\bin\Debug\netcoreapp2.0\dotnetmvc.Data.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\obj\Debug\netcoreapp2.0\dotnetmvc.Data.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\obj\Debug\netcoreapp2.0\dotnetmvc.Data.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\obj\Debug\netcoreapp2.0\dotnetmvc.Data.AssemblyInfoInputs.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\obj\Debug\netcoreapp2.0\dotnetmvc.Data.AssemblyInfo.cs
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\bin\Debug\netcoreapp2.0\dotnetmvc.Data.pdb
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\obj\Debug\netcoreapp2.0\dotnetmvc.Data.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Data\obj\Debug\netcoreapp2.0\dotnetmvc.Data.pdb

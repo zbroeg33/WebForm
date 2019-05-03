@@ -1,0 +1,12 @@
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\bin\Debug\netcoreapp2.0\dotnetmvc.Service.deps.json
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\bin\Debug\netcoreapp2.0\dotnetmvc.Service.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\bin\Debug\netcoreapp2.0\dotnetmvc.Service.pdb
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\bin\Debug\netcoreapp2.0\dotnetmvc.Data.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\bin\Debug\netcoreapp2.0\dotnetmvc.Data.pdb
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\obj\Debug\netcoreapp2.0\dotnetmvc.Service.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\obj\Debug\netcoreapp2.0\dotnetmvc.Service.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\obj\Debug\netcoreapp2.0\dotnetmvc.Service.AssemblyInfoInputs.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\obj\Debug\netcoreapp2.0\dotnetmvc.Service.AssemblyInfo.cs
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\obj\Debug\netcoreapp2.0\dotnetmvc.Service.csproj.CopyComplete
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\obj\Debug\netcoreapp2.0\dotnetmvc.Service.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc.Service\obj\Debug\netcoreapp2.0\dotnetmvc.Service.pdb

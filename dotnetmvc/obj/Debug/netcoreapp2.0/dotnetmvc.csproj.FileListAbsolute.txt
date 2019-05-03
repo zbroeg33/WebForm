@@ -1,0 +1,17 @@
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.deps.json
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.runtimeconfig.json
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.runtimeconfig.dev.json
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.pdb
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.Data.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.Data.pdb
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\obj\Debug\netcoreapp2.0\dotnetmvc.csprojAssemblyReference.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\obj\Debug\netcoreapp2.0\dotnetmvc.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\obj\Debug\netcoreapp2.0\dotnetmvc.AssemblyInfoInputs.cache
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\obj\Debug\netcoreapp2.0\dotnetmvc.AssemblyInfo.cs
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\obj\Debug\netcoreapp2.0\dotnetmvc.csproj.CopyComplete
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\obj\Debug\netcoreapp2.0\dotnetmvc.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\obj\Debug\netcoreapp2.0\dotnetmvc.pdb
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.Service.dll
+C:\Users\Zack\Desktop\dotnetmvc\dotnetmvc\bin\Debug\netcoreapp2.0\dotnetmvc.Service.pdb
